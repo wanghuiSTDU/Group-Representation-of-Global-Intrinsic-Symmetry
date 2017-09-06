@@ -8,8 +8,8 @@
 
 
 ## Utilization
-- Run "demo_C2Shape.m" to compute and visualize the global refelectional intrinsic symmetry on a horse model. <br>
-- Run "demo_moreSymmetriesShape.m" to compute and visualize all of the global intrinsic symmetries on a table model. 
+- Run 'demo_C2Shape.m' to compute and visualize the global refelectional intrinsic symmetry on a horse model. <br>
+- Run 'demo_moreSymmetriesShape.m' to compute and visualize all of the global intrinsic symmetries on a table model. 
 
 
 ## Citation
