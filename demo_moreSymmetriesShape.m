@@ -6,11 +6,7 @@ clc;
 close all;
 
 %Add path
-addpath('./Data');
-addpath('./Toolbox');
-addpath('./Toolbox/geodesic distance');
-addpath('./Toolbox/nnsearch');
-addpath('./Toolbox/visualization');
+addpath(genpath(pwd));
 
 %Read mesh
 [V,F] = read_off('table.off');
