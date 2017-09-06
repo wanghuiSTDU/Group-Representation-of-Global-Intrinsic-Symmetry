@@ -2,14 +2,14 @@
 
 
 ## Code
-- These codes are the core parts of the algorithms in the paper.
+- These codes are the core parts of the algorithms in the paper. For the paper, you can download from our project page: http://vcc.szu.edu.cn/research/2017/Symmetry/.
 - The codes have been tested on `Win7 x64 + Matlab 2012a (32 bit)`.
 - The provided codes are just for academic use.
 
 
 ## Utilization
-- Run "demo_C2Shape.m" to compute and visualize the global refelectional intrinsic symmetry on a horse model. <br>
-- Run "demo_moreSymmetriesShape.m" to compute and visualize all of the global intrinsic symmetries on a table model. 
+- Run `demo_C2Shape.m` to compute and visualize the global refelectional intrinsic symmetry on a horse model. <br>
+- Run `demo_moreSymmetriesShape.m` to compute and visualize all of the global intrinsic symmetries on a table model. 
 
 
 ## Citation
