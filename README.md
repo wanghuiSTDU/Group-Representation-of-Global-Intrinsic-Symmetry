@@ -33,5 +33,5 @@ Some parts of the codes are from Internet, here are the original URLs:<br>
 - HKS.m:https://github.com/areslp/matlab/tree/master/MeshLP/MeshLP
 
 ## Contact
-Please feel free to contact wanghui19841109@163.com (Hui Wang) for any problem.
+Please feel free to contact wanghui19841109@163.com (Hui Wang) for any problem!
 
