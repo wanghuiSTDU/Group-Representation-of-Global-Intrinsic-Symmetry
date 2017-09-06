@@ -14,7 +14,7 @@
 
 ## Citation
 If you use our codes in your research, please citing:<br>
-       @article {Symmetry-PG-2017,<br>
+    @article {Symmetry-PG-2017,<br>
                   title   = {Group Representation of Global Intrinsic Symmetries},<br>
                   author  = {Hui Wang and Hui Huang},<br>
                   journal = {Computer Graphics Forum (Pacific Graphics)},<br>
@@ -34,3 +34,4 @@ Some parts of the codes are from Internet, here are the original URLs:<br>
 
 ## Contact
 Please feel free to contact wanghui19841109@163.com (Hui Wang) for any problem.
+
